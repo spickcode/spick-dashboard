@@ -4,7 +4,6 @@ import { FiSettings } from 'react-icons/fi';
 import { TooltipComponent } from '@syncfusion/ej2-react-popups';
 
 import { Navbar, Footer, Sidebar, ThemeSettings } from './components';
-import { Line } from './pages/Charts';
 import {
   Ecommerce,
   Orders,
@@ -21,6 +20,7 @@ import {
   ColorPicker,
   ColorMapping,
   Editor,
+  Line,
 } from './pages';
 
 import './App.css';
